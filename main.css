@@ -1,3 +1,20 @@
+@font-face {
+    font-family: "Reis";
+    src: 
+    local("REIS") format("truetype"),
+    url("fonts/REIS-regular.ttf") format("truetype");
+}
 body{
-	background: 
+	background-color: #FEFDFB; 
+}
+.caption{
+	 font-family: "Reis";
+	 color:#1f1f1e;
+}
+.soon{
+	display: block;
+	width: 40%;
+	height: 40%;
+	margin-right: auto;
+	margin-left: auto;
 }
