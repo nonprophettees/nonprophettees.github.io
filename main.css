@@ -6,8 +6,7 @@
 }
 body{
 	    background-image: url("img/bg.png");
-	    background-repeat: repeat-y,repeat-x;
-
+	    background-repeat: repeat;
 
 }
 .caption{
