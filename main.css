@@ -5,7 +5,11 @@
     url("fonts/REIS-regular.ttf") format("truetype");
 }
 body{
-	background-color: #FEFDFB; 
+	    background-image: url("img/bg.png");
+	    background-repeat: repeat-y;
+	    background-repeat: repeat-x;
+
+
 }
 .caption{
 	 font-family: "Reis";
