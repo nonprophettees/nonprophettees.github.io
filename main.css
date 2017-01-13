@@ -1,15 +1,15 @@
-@font-face {
+/*@font-face {
     font-family: "Reis";
     src: 
     local("REIS") format("truetype"),
     url("fonts/REIS-regular.ttf") format("truetype");
-}
+}*/
 body{
-	    background-image: url("img/bg.png");
-	    background-repeat: repeat;
-
+    background: url('img/comingsoon.jpg') no-repeat center center fixed;
+	background-size: cover;
+	/*background-position:center;*/
 }
-.caption{
+/*.caption{
 	 font-family: "Reis";
 	 color:#1f1f1e;
 }
@@ -17,4 +17,4 @@ body{
 	display: block;
 	margin-right: auto;
 	margin-left: auto;
-}
+}*/
