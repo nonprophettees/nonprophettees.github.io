@@ -5,16 +5,9 @@
     url("fonts/REIS-regular.ttf") format("truetype");
 }*/
 body{
-    background: url('img/comingsoon.jpg') no-repeat center center fixed;
+    background: url('img/comingsoon.jpg') no-repeat center top fixed;
 	background-size: cover;
 	/*background-position:center;*/
+	overflow-x: scroll;
+	overflow-y: scroll;
 }
-/*.caption{
-	 font-family: "Reis";
-	 color:#1f1f1e;
-}
-.soon{
-	display: block;
-	margin-right: auto;
-	margin-left: auto;
-}*/
